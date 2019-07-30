@@ -1,2 +1,2 @@
-# N-Dimention-list-tupple-set-Flatten-python3
-This small program can flatten any dimention / nested list/tuple/set to 1D list. I have also add a sorting function to sort elements.
+# N-Dimension-list-tuple-set-Flatten-python3
+This small program can flatten any dimension/nested list/tuple/set to One Dimension list. I have also added a sorting function to sort the entire elements of the list.
